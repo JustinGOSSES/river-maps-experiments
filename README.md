@@ -3,6 +3,8 @@ place to play around making maps of rivers to try a few things
 
 ## Data
 
+The data folder if not pushed to origin to avoid storage fees
+
 All these were from: https://gishub-h-gac.hub.arcgis.com/
 - USCB_Urban_Areas_2010.geojson
 - USGS_HUC_10_Watersheds.geojson
