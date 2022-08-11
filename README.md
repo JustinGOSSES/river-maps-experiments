@@ -19,4 +19,9 @@ Or the USGS land cover USA: https://www.usgs.gov/centers/eros/science/national-l
 
 Unsure if this map will allow export but it does have good Harris and Galveston county Land Use details: https://datalab.h-gac.com/RLUIS/
 
+## Interesting Examples
 
+### Trains & Trails
+- link: https://rreusser.github.io/trains-and-trails/reinhardt-redwood-regional-park/
+- repo-link: https://github.com/rreusser/trains-and-trails
+- why-interesting: Has a map path view in 3D overlaid as well as elevation model & time with pictures timeline that are all connected and navigated via scroll. 
