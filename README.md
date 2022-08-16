@@ -25,3 +25,13 @@ Unsure if this map will allow export but it does have good Harris and Galveston 
 - link: https://rreusser.github.io/trains-and-trails/reinhardt-redwood-regional-park/
 - repo-link: https://github.com/rreusser/trains-and-trails
 - why-interesting: Has a map path view in 3D overlaid as well as elevation model & time with pictures timeline that are all connected and navigated via scroll. 
+
+
+### Data to plot per river or along river
+- Land Cover
+- Elevation
+- bridges?
+- parks?
+- ecosystems
+- tree height?
+- urbaness within X distance
