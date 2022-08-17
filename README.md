@@ -19,6 +19,9 @@ Or the USGS land cover USA: https://www.usgs.gov/centers/eros/science/national-l
 
 Unsure if this map will allow export but it does have good Harris and Galveston county Land Use details: https://datalab.h-gac.com/RLUIS/
 
+## Potential New Data Sources
+- Open Street Map API Helper: https://github.com/gboeing/osmnx
+
 ## Interesting Examples
 
 ### Trains & Trails
@@ -26,6 +29,8 @@ Unsure if this map will allow export but it does have good Harris and Galveston 
 - repo-link: https://github.com/rreusser/trains-and-trails
 - why-interesting: Has a map path view in 3D overlaid as well as elevation model & time with pictures timeline that are all connected and navigated via scroll. 
 
+### Percent Change in Land User by County Web Page Interactive by USGS
+https://www.mrlc.gov/eva/
 
 ### Data to plot per river or along river
 - Land Cover
